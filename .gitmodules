@@ -1,0 +1,3 @@
+[submodule "IgBLAST_BioBox"]
+	path = IgBLAST_BioBox
+	url = https://github.com/williamdlees/IgBLAST_BioBox
