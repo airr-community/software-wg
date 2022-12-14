@@ -6,3 +6,4 @@ Software	Version	Support	Reference
 `CompAIRR <https://github.com/uio-bmi/compairr>`_	1.3.1	"Input"	"`Rognes T, Scheffer L, Greiff V, Sandve GK, BioRxiv, 2021 (preprint), <https://doi.org/10.1101/2021.10.30.466600>`_"
 `ImmuneML <https://github.com/uio-bmi/ImmuneML>`_	2.0.4	"Input, Output"	"`Pavlovic et al., BioRxiv, 2021 (preprint), <https://doi.org/10.1101/2021.03.08.433891>`_"
 `Dandelion <https://github.com/zktuong/dandelion>`_	0.1.10	"Output"	"`Stephenson et al., Nature Medicine, 2021, <https://dx.doi.org/10.1038/s41591-021-01329-2>`_"
+`TRUST4 <https://github.com/liulab-dfci/TRUST4>`_	1.0.8	"Output"	"`Song, L., Cohen, D., Ouyang, Z. et al., Nature Methods, 2021, <https://doi.org/10.1038/s41592-021-01142-2>`_"
