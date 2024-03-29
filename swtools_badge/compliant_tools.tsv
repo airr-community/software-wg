@@ -8,4 +8,4 @@ Software	Version	Support	Reference
 `Dandelion <https://github.com/zktuong/dandelion>`_	0.1.10	"Output"	"`Suo, C., Polanski, K., Dann, E. et al., Nature Biotechnology, 2023, <https://doi.org/10.1038/s41587-023-01734-7>`_"
 `TRUST4 <https://github.com/liulab-dfci/TRUST4>`_	1.0.8	"Output"	"`Song, L., Cohen, D., Ouyang, Z. et al., Nature Methods, 2021, <https://doi.org/10.1038/s41592-021-01142-2>`_"
 `partis <https://github.com/psathyrella/partis>`_	0.16.0	"Input, Output"	"`Ralph D and Matsen F IV, PLOS Computational Biology, 2022, <https://doi.org/10.1371/journal.pcbi.1010723>`_"
-
+`nf-core/airrflow <https://nf-co.re/airrflow/3.2.0>`_	3.2.0	"Input, Output"	"`Gisela Gabernet, Susanna Marquez, Alexander Peltzer, et al, 2023, <https://doi.org/10.5281/zenodo.10047694>`_"
